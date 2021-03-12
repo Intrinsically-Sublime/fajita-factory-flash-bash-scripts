@@ -13,7 +13,7 @@
 
 Start phone in fastboot mode (pwr_button + volume_dwn + volume_up)
 
-Open terminal on host in the directory containing the scripts
+To reflash one slot without losing data on the other slot skip wiping data and skip flashing 'persist'.
 
 Running the following command and answer the on screen prompts
 ```

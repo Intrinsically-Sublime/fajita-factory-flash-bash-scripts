@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "To reflash one slot without losing data on the other slot skip wiping data and skip flashing 'persist'."
+echo ""
 
 read -p "Do you want to wipe all the data ( recommended )[Y/N]?" -n 1 -r
 echo    # (optional) move to a new line
